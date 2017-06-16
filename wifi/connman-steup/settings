@@ -1,0 +1,16 @@
+[wifi_f4f26d09d31d_446f6e6973_managed_psk]
+Name=Donis
+SSID=446f6e6973
+Frequency=2412
+Favorite=true
+AutoConnect=true
+Modified=2017-06-16T03:20:03.125585Z
+Passphrase=shahi8403
+IPv4.method=manual
+IPv4.DHCP.LastAddress=192.168.0.104
+IPv6.method=auto
+IPv6.privacy=prefered
+IPv4.netmask_prefixlen=24
+IPv4.local_address=192.168.0.50
+IPv4.gateway=192.168.0.1
+Nameservers=8.8.8.8;
